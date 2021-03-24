@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">COVID 19 Av2</string>
+
+    <string-array name="estados">
+        <item>ceara</item>
+        <item>alagoa</item>
+        <item>pernam</item>
+
+    </string-array>
 </resources>
